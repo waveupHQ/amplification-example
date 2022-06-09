@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.13.0",
+  "appInfo": {
+    "name": "News ",
+    "description": "",
+    "version": "fat2wg61",
+    "id": "cl47b0utm92340601l4e3vyl22r",
+    "url": "https://server.amplication.com/cl47b0utm92340601l4e3vyl22r",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "news",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl47b0utm92340601l4e3vyl22r",
+      "authProvider": "Jwt"
+    }
+  }
+}
